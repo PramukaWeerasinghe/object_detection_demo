@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Virgin Train</folder>
-	<filename>3.jpg</filename>
-	<path>C:\Users\212801959\Downloads\Virgin Train\2edd9e37-9b79-4c4c-a050-aec5465ce1bf-12.jpg</path>
+	<folder>NewLabelledImagesByUpulForTraining</folder>
+	<filename>5.jpg</filename>
+	<path>D:\Machine Learning Projects\US Railway project\content\NewLabelledImagesByUpulForTraining\5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,147 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>crossing</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>562</xmin>
-			<ymin>603</ymin>
-			<xmax>606</xmax>
-			<ymax>889</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>crossing</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1332</xmin>
-			<ymin>596</ymin>
-			<xmax>1376</xmax>
-			<ymax>886</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>crossinglabel</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>479</xmin>
-			<ymin>871</ymin>
-			<xmax>706</xmax>
-			<ymax>945</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>crossinglabel</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1245</xmin>
-			<ymin>867</ymin>
-			<xmax>1467</xmax>
-			<ymax>947</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>milepost</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>564</xmin>
-			<ymin>228</ymin>
-			<xmax>615</xmax>
-			<ymax>428</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>milepost</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1325</xmin>
-			<ymin>223</ymin>
-			<xmax>1376</xmax>
-			<ymax>440</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>milepost</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1493</xmin>
-			<ymin>213</ymin>
-			<xmax>1542</xmax>
-			<ymax>430</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>milepost</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1620</xmin>
-			<ymin>215</ymin>
-			<xmax>1669</xmax>
-			<ymax>447</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>milepost</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1732</xmin>
-			<ymin>215</ymin>
-			<xmax>1774</xmax>
-			<ymax>449</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>milepost</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1835</xmin>
-			<ymin>223</ymin>
-			<xmax>1886</xmax>
-			<ymax>432</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>milepost</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1952</xmin>
-			<ymin>210</ymin>
-			<xmax>1986</xmax>
-			<ymax>430</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>milepost</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2096</xmin>
-			<ymin>220</ymin>
-			<xmax>2145</xmax>
-			<ymax>447</ymax>
+			<xmin>976</xmin>
+			<ymin>628</ymin>
+			<xmax>1108</xmax>
+			<ymax>674</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -161,9 +29,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1503</xmin>
-			<ymin>686</ymin>
-			<xmax>1623</xmax>
+			<xmin>978</xmin>
+			<ymin>708</ymin>
+			<xmax>1124</xmax>
 			<ymax>752</ymax>
 		</bndbox>
 	</object>
@@ -173,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1506</xmin>
-			<ymin>762</ymin>
-			<xmax>1630</xmax>
-			<ymax>823</ymax>
+			<xmin>979</xmin>
+			<ymin>764</ymin>
+			<xmax>1120</xmax>
+			<ymax>810</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -185,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2011</xmin>
-			<ymin>691</ymin>
-			<xmax>2125</xmax>
+			<xmin>1671</xmin>
+			<ymin>681</ymin>
+			<xmax>1786</xmax>
 			<ymax>737</ymax>
 		</bndbox>
 	</object>
@@ -197,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2006</xmin>
+			<xmin>1667</xmin>
 			<ymin>771</ymin>
-			<xmax>2132</xmax>
-			<ymax>815</ymax>
+			<xmax>1795</xmax>
+			<ymax>810</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -209,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1645</xmin>
-			<ymin>710</ymin>
-			<xmax>1703</xmax>
-			<ymax>771</ymax>
+			<xmin>1165</xmin>
+			<ymin>722</ymin>
+			<xmax>1225</xmax>
+			<ymax>780</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -221,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1732</xmin>
-			<ymin>742</ymin>
-			<xmax>1801</xmax>
-			<ymax>801</ymax>
+			<xmin>1375</xmin>
+			<ymin>731</ymin>
+			<xmax>1439</xmax>
+			<ymax>788</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -233,22 +101,238 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1845</xmin>
-			<ymin>732</ymin>
-			<xmax>1898</xmax>
-			<ymax>806</ymax>
+			<xmin>1525</xmin>
+			<ymin>706</ymin>
+			<xmax>1594</xmax>
+			<ymax>763</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>switch</name>
+		<name>milepost</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1935</xmin>
-			<ymin>713</ymin>
-			<xmax>1989</xmax>
-			<ymax>769</ymax>
+			<xmin>267</xmin>
+			<ymin>224</ymin>
+			<xmax>339</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>milepost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>657</xmin>
+			<ymin>221</ymin>
+			<xmax>727</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>milepost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>737</xmin>
+			<ymin>219</ymin>
+			<xmax>807</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>milepost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>948</xmin>
+			<ymin>206</ymin>
+			<xmax>1029</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>milepost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1170</xmin>
+			<ymin>207</ymin>
+			<xmax>1247</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>milepost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1362</xmin>
+			<ymin>212</ymin>
+			<xmax>1438</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>milepost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1542</xmin>
+			<ymin>209</ymin>
+			<xmax>1624</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>milepost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1730</xmin>
+			<ymin>213</ymin>
+			<xmax>1809</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>milepost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1822</xmin>
+			<ymin>214</ymin>
+			<xmax>1895</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>675</xmin>
+			<ymin>598</ymin>
+			<xmax>716</xmax>
+			<ymax>788</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1813</xmin>
+			<ymin>592</ymin>
+			<xmax>1859</xmax>
+			<ymax>890</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2049</xmin>
+			<ymin>600</ymin>
+			<xmax>2092</xmax>
+			<ymax>878</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2216</xmin>
+			<ymin>594</ymin>
+			<xmax>2253</xmax>
+			<ymax>886</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crossinglabel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>606</xmin>
+			<ymin>543</ymin>
+			<xmax>780</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crossinglabel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1751</xmin>
+			<ymin>869</ymin>
+			<xmax>1933</xmax>
+			<ymax>933</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crossinglabel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1982</xmin>
+			<ymin>871</ymin>
+			<xmax>2149</xmax>
+			<ymax>943</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crossinglabel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2157</xmin>
+			<ymin>867</ymin>
+			<xmax>2320</xmax>
+			<ymax>937</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>milepost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2020</xmin>
+			<ymin>212</ymin>
+			<xmax>2111</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>milepost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2189</xmin>
+			<ymin>212</ymin>
+			<xmax>2270</xmax>
+			<ymax>430</ymax>
 		</bndbox>
 	</object>
 </annotation>
