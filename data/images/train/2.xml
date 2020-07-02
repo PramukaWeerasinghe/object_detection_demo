@@ -1,7 +1,7 @@
 <annotation>
-	<folder>New300DPicomplexImagesRework</folder>
+	<folder>SelectedLabelled15(newClasses)_Rework</folder>
 	<filename>2.jpg</filename>
-	<path>D:\Machine Learning Projects\US Railway project\content\New300DPicomplexImagesRework\2.jpg</path>
+	<path>D:\Machine Learning Projects\US Railway project\content\SelectedLabelled15(newClasses)_Rework\2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -180,7 +180,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>leftSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -192,7 +192,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>rightSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -204,7 +204,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>leftSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -216,7 +216,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>leftSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -228,7 +228,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>leftSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -240,7 +240,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>rightSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -252,7 +252,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>rightSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -264,7 +264,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>rightSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -276,7 +276,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>rightSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -288,7 +288,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>rightSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -300,7 +300,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>leftSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -312,7 +312,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>leftSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -324,7 +324,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>leftSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -336,7 +336,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>leftSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -348,7 +348,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>leftSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -360,7 +360,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>leftSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -372,7 +372,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>leftSignal</name>
+		<name>signal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
