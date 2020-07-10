@@ -1,7 +1,7 @@
 <annotation>
-	<folder>NewSelectedLabelledImagesWithCrossovers</folder>
+	<folder>SelectedLabelled15(newClasses)_Rework</folder>
 	<filename>21.jpg</filename>
-	<path>D:\Machine Learning Projects\RailwayPoject_PhaseII\NewSelectedLabelledImagesWithCrossovers\21.jpg</path>
+	<path>D:\Machine Learning Projects\US Railway project\content\SelectedLabelled15(newClasses)_Rework\21.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>signal</name>
+		<name>leftsignal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>signal</name>
+		<name>leftsignal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -108,7 +108,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>signal</name>
+		<name>rightsignal</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -120,7 +120,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>signal</name>
+		<name>rightsignal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -249,6 +249,54 @@
 			<ymin>99</ymin>
 			<xmax>1525</xmax>
 			<ymax>316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>switch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1244</xmin>
+			<ymin>591</ymin>
+			<xmax>1297</xmax>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>switch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1099</xmin>
+			<ymin>619</ymin>
+			<xmax>1152</xmax>
+			<ymax>669</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>switch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1299</xmin>
+			<ymin>589</ymin>
+			<xmax>1352</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>switch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1449</xmin>
+			<ymin>618</ymin>
+			<xmax>1502</xmax>
+			<ymax>668</ymax>
 		</bndbox>
 	</object>
 </annotation>

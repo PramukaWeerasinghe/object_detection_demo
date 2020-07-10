@@ -1,7 +1,7 @@
 <annotation>
-	<folder>NewSelectedLabelledImagesWithCrossovers</folder>
+	<folder>SelectedLabelled15(newClasses)_Rework</folder>
 	<filename>18.jpg</filename>
-	<path>D:\Machine Learning Projects\RailwayPoject_PhaseII\NewSelectedLabelledImagesWithCrossovers\18.jpg</path>
+	<path>D:\Machine Learning Projects\US Railway project\content\SelectedLabelled15(newClasses)_Rework\18.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -144,7 +144,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>signal</name>
+		<name>leftsignal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -156,7 +156,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>signal</name>
+		<name>leftsignal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,7 +168,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>signal</name>
+		<name>leftsignal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -180,7 +180,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>signal</name>
+		<name>leftsignal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -192,7 +192,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>signal</name>
+		<name>rightsignal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -204,7 +204,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>signal</name>
+		<name>rightsignal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
